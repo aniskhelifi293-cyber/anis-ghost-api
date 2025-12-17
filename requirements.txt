@@ -9,3 +9,4 @@ pycryptodome
 gunicorn
 pillow
 httpx
+protobuf_decoder
